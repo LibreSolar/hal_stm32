@@ -1,0 +1,16 @@
+{
+  "name": "framework-zephyr-hal-stm32",
+  "version": "0.0.0-libresolar",
+  "description": "STM32 HAL for Zephyr, forked by Libre Solar for customizing PlatformIO",
+  "keywords": [
+    "framework",
+    "rtos",
+    "hal"
+  ],
+  "homepage": "https://www.zephyrproject.org",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LibreSolar/hal_stm32"
+  }
+}
